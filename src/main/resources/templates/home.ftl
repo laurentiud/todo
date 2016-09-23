@@ -54,10 +54,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h4>Lite todo list</h4>
-                <p>sd sad sad sad sadsad sadasdasdasdgrtlhrklbrtklvbkl k rfls k d</p>
+                <h4>Open source, lite todo list</h4>
+                <p>Proof of concept using Spring Boot, in-file H2 database, Hibernate and Bootstrap.</p>
                 <button type="button" class="btn btn-lg btn-default" onclick="javascript:location.href='https://github.com/laurentiud/todo'">View on GitHub</button>
-                <button type="button" class="btn btn-lg btn-success" onclick="javascript:location.href='/todo/new'">New todo list</button>
+                <button type="button" class="btn btn-lg btn-success" onclick="javascript:location.href='/todo'">New todo list</button>
             </div>
         </div>
         <!-- /.row -->
