@@ -57,8 +57,8 @@
         <div class="row">
             <div class="col-md-offset-3 col-md-6">
                 <div class="todolist not-done">
-                    <h3>Save the link to your todo list!</h3>
-                    <a href="${linkToTodo}">Link to todo list</a>
+                    <p>Save the <a href="${linkToTodo}">link</a> to your todo list!</p>
+                    
                     <input type="text" class="form-control add-todo" placeholder="Add todo" id="${hash}">
                         
                         <hr>
